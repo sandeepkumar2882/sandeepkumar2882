@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sandeepkumar2882
 - 👀 I’m interested in Software Development and Web Development.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently working as an Associate Software Engineer.
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me through email shailaansandeep@gmail.com 
 
